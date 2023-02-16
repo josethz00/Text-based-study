@@ -34,3 +34,7 @@ As soon as possible, I will review your pull request and merge it.
 
 - **HASKELL**
   - Learn You Haskell - [link](http://learnyouahaskell.com/chapters)
+### Code complexity
+
+- Cyclomatic Complexity - [link](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+- Big O Notation - [link](https://vitorsalmeida.com/blog/ptBR/big-o-notation)
