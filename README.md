@@ -1,7 +1,6 @@
 # Text-based Study
 > This repository has as its purpose centralizing links to learn computing and technologies through text-based materials.
 
-
 ## Free material by theme
 
 ### Web Development
@@ -15,3 +14,10 @@
 ### Linux
 
 - Advanced Linux Programming Book - [link](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/) 
+
+### Programming Languages
+
+- Learn X in Y minutes - [link](https://learnxinyminutes.com/)
+
+- **HASKELL**
+  - Learn You Haskell - [link](http://learnyouahaskell.com/chapters)
