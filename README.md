@@ -14,4 +14,9 @@
 
 ### Linux
 
-- Advanced Linux Programming Book - [link](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/) 
+- Advanced Linux Programming Book - [link](https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/)
+
+### Code complexity
+
+- Cyclomatic Complexity - [link](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+- Big O Notation - [link](https://vitorsalmeida.com/blog/ptBR/big-o-notation)
